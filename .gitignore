@@ -2,3 +2,6 @@
 Thumbs.db
 target/classes/archetype-resources/*
 target/classes/META-INF/*
+target/nexus-staging/*
+target/*.asc
+target/*.pom
